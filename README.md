@@ -1,2 +1,2 @@
-# My-Projects
+# Power BI-Project
 Power BI Project- Customer Churn
